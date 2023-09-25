@@ -19,7 +19,8 @@ Welcome to HackerRank-Writeups, A repository containing Writeups for HackerRank.
 | Sum and Difference of Two Numbers | [`sum_diff_two_nums.c`](./sum_diff_two_nums.c) | 14-07-2023 |
 | Sum of Five Digit Number | [`sum_five_digit_num.c`](./sum_five_digit_num.c) | 10-07-2023 |
 | 1D Arrays in C | [`1d_arrays_in_c.c`](./1d_arrays_in_c.c) | 12-08-2023 |
-| Array Reversal | [`array_reversal.c`](./array_reversal) | 12-08-2023 |
+| Array Reversal | [`array_reversal.c`](./array_reversal.c) | 12-08-2023 |
+| Printing Tokens | [`printing_tokens.c`](./printing_tokens.c) | 25-09-2023 |
 
 ## Thank You
 
